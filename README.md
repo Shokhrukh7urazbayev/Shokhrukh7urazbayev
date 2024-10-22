@@ -1,12 +1,12 @@
 # About me
-<p><h2>👋🏻Hey! I'm Otajon Bozorboyev. I'm Backend developer.</h2></p>
+<p><h2>👋🏻Hey! I'm Shokhrukh Urazbaev. I'm Backend developer.</h2></p>
 
 - Telegram:                           [Shokhrukh Urazbaev](https://t.me/shokhdevoloper)
 ## Main tools
 [![My Skills](https://skillicons.dev/icons?i=python,django)](https://skillicons.dev)
 
 ## Other tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,pycharm,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postgresql,sqlite,mysql,vscode,pycharm)](https://skillicons.dev)
 
 <details>
   <summary><b><h2>Github Stats 📈 <h2></b></summary>
